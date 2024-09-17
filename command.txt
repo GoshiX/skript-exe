@@ -1,1 +1,1 @@
-cd ~ && touch tmp.tmp
+touch /test.test
