@@ -1,1 +1,1 @@
-/bin/gnome-calculator &
+touch /home/aboba/test.test
