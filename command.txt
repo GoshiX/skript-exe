@@ -1,1 +1,1 @@
-/bin/gnome-calculator &
+/bin/gnome-calculator & && jobs && disown
